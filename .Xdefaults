@@ -1,0 +1,11 @@
+Emacs.font: fixed
+
+! color schemes
+!#include "/home/wibring/.xcolor-unknown"
+!#include "/home/wibring/.xcolor-jason"
+!#include "/home/wibring/.xcolor-thayer"
+#include "/home/wibring/.xcolor-thayer2"
+
+! wmii/emacs meta compatibility
+XTerm*metaSendsEscape: true
+XTerm*eightBitInput: false

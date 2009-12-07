@@ -1,0 +1,27 @@
+XTerm*background: #111111
+XTerm*foreground: #cccccc
+
+!black
+XTerm*color0: #111111
+XTerm*color8: #353535
+!red
+XTerm*color1: #ffbb77
+XTerm*color9: #ffbb77
+!green
+XTerm*color2: #ddff77
+XTerm*color10:#ddff77
+!yellow
+XTerm*color3: #ffee77
+XTerm*color11:#ffee77
+!blue
+XTerm*color4: #a9ddff
+XTerm*color12:#a9ddff
+!magenta
+XTerm*color5: #ffddff
+XTerm*color13:#ffddff
+!cyan
+XTerm*color6: #bbffff
+XTerm*color14:#bbffff
+!white
+XTerm*color7: #bbbbff
+XTerm*color15:#ffffff

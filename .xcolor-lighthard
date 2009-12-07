@@ -1,0 +1,63 @@
+! LIGHT TERM CONFIG
+light-coding*background: #111111
+light-coding*foreground: #bbbbff
+
+light-coding*transparent: true
+light-coding*shading: 20
+light-coding*fading: 30
+
+!black
+light-coding*color0: #111111
+light-coding*color8: #353535
+!red
+light-coding*color1: #ffbb77
+light-coding*color9: #ffbb77
+!green
+light-coding*color2: #bbff77
+light-coding*color10:#bbff77
+!yellow
+light-coding*color3: #ffff77
+light-coding*color11:#ffff77
+!blue
+light-coding*color4: #77bbff
+light-coding*color12:#77bbff
+!magenta
+light-coding*color5: #ffbbff
+light-coding*color13:#ffbbff
+!cyan
+light-coding*color6: #bbffff
+light-coding*color14:#bbffff
+!white
+light-coding*color7: #bbbbff
+light-coding*color15:#ffffff
+
+! HARDCORE TERM CONFIG
+hardcore-coding*background: #000000
+hardcore-coding*foreground: #bbbbff
+
+hardcore-coding*fading: 10
+
+!black
+hardcore-coding*color0: #000000
+hardcore-coding*color8: #353535
+!red
+hardcore-coding*color1: #ffab67
+hardcore-coding*color9: #ffab67
+!green
+hardcore-coding*color2: #abff67
+hardcore-coding*color10:#abff67
+!yellow
+hardcore-coding*color3: #ffff67
+hardcore-coding*color11:#ffff67
+!blue
+hardcore-coding*color4: #67abff
+hardcore-coding*color12:#67abff
+!magenta
+hardcore-coding*color5: #ffabff
+hardcore-coding*color13:#ffabff
+!cyan
+hardcore-coding*color6: #abffff
+hardcore-coding*color14:#abffff
+!white
+hardcore-coding*color7: #bbbbff
+hardcore-coding*color15:#ffffff
